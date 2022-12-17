@@ -1,14 +1,32 @@
 {
   "files": {
-    "main.css": "./static/css/main.68695f7b.css",
-    "main.js": "./static/js/main.f113f361.js",
-    "static/media/bg.png": "./static/media/bg.ff921d8195adaa83890d.png",
-    "index.html": "./index.html",
-    "main.68695f7b.css.map": "./static/css/main.68695f7b.css.map",
-    "main.f113f361.js.map": "./static/js/main.f113f361.js.map"
+    "main.css": "/calc-deploy/static/css/main.0101ee33.css",
+    "main.js": "/calc-deploy/static/js/main.daded854.js",
+    "static/js/255.52c15e4e.chunk.js": "/calc-deploy/static/js/255.52c15e4e.chunk.js",
+    "static/js/240.45bc070b.chunk.js": "/calc-deploy/static/js/240.45bc070b.chunk.js",
+    "static/css/987.44fb5a11.chunk.css": "/calc-deploy/static/css/987.44fb5a11.chunk.css",
+    "static/js/987.61da506a.chunk.js": "/calc-deploy/static/js/987.61da506a.chunk.js",
+    "static/js/600.3828e6d7.chunk.js": "/calc-deploy/static/js/600.3828e6d7.chunk.js",
+    "static/js/909.780fde73.chunk.js": "/calc-deploy/static/js/909.780fde73.chunk.js",
+    "static/js/757.6cd5ac39.chunk.js": "/calc-deploy/static/js/757.6cd5ac39.chunk.js",
+    "static/js/21.73993696.chunk.js": "/calc-deploy/static/js/21.73993696.chunk.js",
+    "static/js/778.aa30d37f.chunk.js": "/calc-deploy/static/js/778.aa30d37f.chunk.js",
+    "static/media/bg.png": "/calc-deploy/static/media/bg.ff921d8195adaa83890d.png",
+    "index.html": "/calc-deploy/index.html",
+    "main.0101ee33.css.map": "/calc-deploy/static/css/main.0101ee33.css.map",
+    "main.daded854.js.map": "/calc-deploy/static/js/main.daded854.js.map",
+    "255.52c15e4e.chunk.js.map": "/calc-deploy/static/js/255.52c15e4e.chunk.js.map",
+    "240.45bc070b.chunk.js.map": "/calc-deploy/static/js/240.45bc070b.chunk.js.map",
+    "987.44fb5a11.chunk.css.map": "/calc-deploy/static/css/987.44fb5a11.chunk.css.map",
+    "987.61da506a.chunk.js.map": "/calc-deploy/static/js/987.61da506a.chunk.js.map",
+    "600.3828e6d7.chunk.js.map": "/calc-deploy/static/js/600.3828e6d7.chunk.js.map",
+    "909.780fde73.chunk.js.map": "/calc-deploy/static/js/909.780fde73.chunk.js.map",
+    "757.6cd5ac39.chunk.js.map": "/calc-deploy/static/js/757.6cd5ac39.chunk.js.map",
+    "21.73993696.chunk.js.map": "/calc-deploy/static/js/21.73993696.chunk.js.map",
+    "778.aa30d37f.chunk.js.map": "/calc-deploy/static/js/778.aa30d37f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.68695f7b.css",
-    "static/js/main.f113f361.js"
+    "static/css/main.0101ee33.css",
+    "static/js/main.daded854.js"
   ]
 }
